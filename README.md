@@ -1,1 +1,1 @@
-# schoolerpsystem
+# Python beginners exercises
